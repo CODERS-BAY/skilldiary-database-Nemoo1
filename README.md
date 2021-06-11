@@ -296,3 +296,7 @@ You can create tables by assembling a list of words and dividing them with hyphe
     </td>
   </tr>
 </table>
+
+ERD drawing
+9 CODSCHEN requirements
+Data modell
