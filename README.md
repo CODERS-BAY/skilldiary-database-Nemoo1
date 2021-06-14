@@ -315,6 +315,21 @@ You can create tables by assembling a list of words and dividing them with hyphe
   <li>Transaction</li>
   <li>Synchronization</li>
   <li>Data backup</li>
+  
+<h2>Data modelling</h2>
+  <p>There are two types of data modelling techniques:</p>
+<ol>
+  <li>Entity Relationship (E-R) Model
+  <li>UML (Unified Modelling Language)</li>
+  <li>Operation</li>
+  <li>Catalogue</li>
+  <li>User views/sights</li>
+  <li>Data integrity assurance</li>
+  <li>Access control</li>
+  <li>Transaction</li>
+  <li>Synchronization</li>
+  <li>Data backup</li>
+  
   ERD drawing
 9 CODSCHEN requirements
 Data modell
