@@ -297,6 +297,7 @@ You can create tables by assembling a list of words and dividing them with hyphe
   </tr>
 </table>
 
-ERD drawing
+<p> Today we learnt about a few things about data bases. Why do we even need data bases? First of all for the security of data loss, structured deposit of data and accsess to data from other users. 
+  ERD drawing
 9 CODSCHEN requirements
 Data modell
