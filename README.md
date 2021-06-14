@@ -338,7 +338,6 @@ You can create tables by assembling a list of words and dividing them with hyphe
   <li>Product name and price are attributes of product entity</li>
   <li>Sale is the relationship between the customer and product</li>
 </ul>
-  
-  ERD drawing
-9 CODSCHEN requirements
-Data modell
+<h3>ERD drawing</h3>
+<br>
+<h3>Cardinalities</h3>
