@@ -325,7 +325,7 @@ You can create tables by assembling a list of words and dividing them with hyphe
   <li>Physical Data Model: This Data Model describes HOW the system will be implemented using a specific DBMS system. This model is typically created by DBA and developers. The purpose is actual implementation of the database.</li>
 </ul>
 
-<h3>Conceptual data model</h3>
+<h3>Conceptual data model + ERD drawing</h3>
 <p>The 3 basic tenants of Conceptual Data Model are:</p>
 <ul>
   <li>Entity: A real-world thing</li>
@@ -338,6 +338,5 @@ You can create tables by assembling a list of words and dividing them with hyphe
   <li>Product name and price are attributes of product entity</li>
   <li>Sale is the relationship between the customer and product</li>
 </ul>
-<h3>ERD drawing</h3>
 <br>
 <h3>Cardinalities</h3>
