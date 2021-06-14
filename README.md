@@ -340,7 +340,7 @@ You can create tables by assembling a list of words and dividing them with hyphe
 </ul>
 <h3>Cardinalities</h3>
 <ol>
-  <li>Man is married to woman</li>
-  <li>Teacher teaches subjects</li>
+  <li>Man is married to woman --> 1:1</li>
+  <li>Teacher teaches subjects --> 1:N</li>
 </ol>
 
