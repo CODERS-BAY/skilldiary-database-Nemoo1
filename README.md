@@ -318,17 +318,25 @@ You can create tables by assembling a list of words and dividing them with hyphe
 </ol>
   
 <h2>Data modelling</h2>
-  <p>There are two types of data modelling techniques:</p>
-<ol>
-  <li>Entity Relationship (E-R) Model
-  <li>UML (Unified Modelling Language)</li>
-</ol>
-
 <p>Types of data models:</p>
 <ul>
   <li>Conceptual Data Model: This Data Model defines WHAT the system contains. This model is typically created by Business stakeholders and Data Architects. The purpose is to organize, scope and define business concepts and rules.</li>
   <li>Logical Data Model: Defines HOW the system should be implemented regardless of the DBMS. This model is typically created by Data Architects and Business Analysts. The purpose is to developed technical map of rules and data structures.</li>
   <li>Physical Data Model: This Data Model describes HOW the system will be implemented using a specific DBMS system. This model is typically created by DBA and developers. The purpose is actual implementation of the database.</li>
+</ul>
+
+<p>Conceptual data model</p>
+<p>The 3 basic tenants of Conceptual Data Model are:</p>
+<ul>
+  <li>Entity: A real-world thing</li>
+  <li>Attribute: Characteristics or properties of an entity</li>
+  <li>Relationship: Dependency or association between two entities</li>
+</ul>
+<p>Data model example</p>
+<ul>
+  <li>Customer and Product are two entities. Customer number and name are attributes of the Customer entity</li>
+  <li>Product name and price are attributes of product entity</li>
+  <li>Sale is the relationship between the customer and product</li>
 </ul>
   
   ERD drawing
