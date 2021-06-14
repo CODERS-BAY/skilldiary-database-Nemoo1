@@ -338,5 +338,9 @@ You can create tables by assembling a list of words and dividing them with hyphe
   <li>Product name and price are attributes of product entity</li>
   <li>Sale is the relationship between the customer and product</li>
 </ul>
-<br>
 <h3>Cardinalities</h3>
+<ol>
+  <li>Man is married to woman</li>
+  <li>Teacher teaches subjects</li>
+</ol>
+
