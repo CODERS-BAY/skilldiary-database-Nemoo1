@@ -325,7 +325,7 @@ You can create tables by assembling a list of words and dividing them with hyphe
   <li>Physical Data Model: This Data Model describes HOW the system will be implemented using a specific DBMS system. This model is typically created by DBA and developers. The purpose is actual implementation of the database.</li>
 </ul>
 
-<p>Conceptual data model</p>
+<h3>Conceptual data model</h3>
 <p>The 3 basic tenants of Conceptual Data Model are:</p>
 <ul>
   <li>Entity: A real-world thing</li>
