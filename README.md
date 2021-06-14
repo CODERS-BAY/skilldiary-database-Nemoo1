@@ -299,14 +299,22 @@ You can create tables by assembling a list of words and dividing them with hyphe
 
 <h2>Why do we need databases?</h2>
 <ol> 
-    <li>security of data loss</li>
-    <li>structured deposit of data</li>
-    <li>accsess to other users data</li>
-    <hr class="new">
+  <li>security of data loss</li>
+  <li>structured deposit of data</li>
+  <li>accsess to other users data</li>
+  <hr class="new">
 </ol>
-<br>
 <h2>The 9 Codd'schen requirements</h2>
-
+<ol>
+  <li>Integration</li>
+  <li>Operation</li>
+  <li>Catalogue</li>
+  <li>User views/sights</li>
+  <li>Data integrity assurance</li>
+  <li>Access control</li>
+  <li>Transaction</li>
+  <li>Synchronization</li>
+  <li>Data backup</li>
   ERD drawing
 9 CODSCHEN requirements
 Data modell
