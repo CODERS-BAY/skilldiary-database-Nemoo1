@@ -298,7 +298,7 @@ You can create tables by assembling a list of words and dividing them with hyphe
 </table>
 
 <h2>Why do we need databases?</h2>
-<article class="flex">
+<article>
       <ol> 
         <li>security of data loss</li>
         <li>structured deposit of data</li>
