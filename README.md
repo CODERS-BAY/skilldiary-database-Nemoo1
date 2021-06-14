@@ -342,5 +342,6 @@ You can create tables by assembling a list of words and dividing them with hyphe
 <ol>
   <li>Man is married to woman --> 1:1</li>
   <li>Teacher teaches subjects --> 1:N</li>
+  <li>Participants use electronic devices --> N:M</li>
 </ol>
 
