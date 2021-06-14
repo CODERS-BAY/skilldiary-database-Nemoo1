@@ -326,7 +326,7 @@ You can create tables by assembling a list of words and dividing them with hyphe
 </ul>
 
 <h3>Conceptual data model + ERD drawing</h3>
-<p>The 3 basic tenants of Conceptual Data Model are:</p>
+<p>The 3 basic occupants of Conceptual Data Model are:</p>
 <ul>
   <li>Entity: A real-world thing</li>
   <li>Attribute: Characteristics or properties of an entity</li>
