@@ -323,6 +323,13 @@ You can create tables by assembling a list of words and dividing them with hyphe
   <li>Entity Relationship (E-R) Model
   <li>UML (Unified Modelling Language)</li>
 </ol>
+
+<p>Types of data models:</p>
+<ul>
+  <li>Conceptual Data Model: This Data Model defines WHAT the system contains. This model is typically created by Business stakeholders and Data Architects. The purpose is to organize, scope and define business concepts and rules.</li>
+  <li>Logical Data Model: Defines HOW the system should be implemented regardless of the DBMS. This model is typically created by Data Architects and Business Analysts. The purpose is to developed technical map of rules and data structures.</li>
+  <li>Physical Data Model: This Data Model describes HOW the system will be implemented using a specific DBMS system. This model is typically created by DBA and developers. The purpose is actual implementation of the database.</li>
+</ul>
   
   ERD drawing
 9 CODSCHEN requirements
